@@ -1,0 +1,24 @@
+[{ 
+    "user_email": "usuario@dominio.com",
+    "user_password": "senhaSegura123"
+},
+
+{
+    "user_email": "usuario@dominio.com",
+    "user_password": "senhaSegura123"
+},
+
+{
+    "current_password": "senhaAtual123",
+    "new_password": "novaSenha456"
+},
+
+{
+    "user_email": "usuario@dominio.com"
+},
+
+{
+    "reset_token": "tokenDeRedefinição",
+    "new_password": "novaSenha789"
+}
+]
